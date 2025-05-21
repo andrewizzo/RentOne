@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+.bg-custom{
+    background-color: #1a1a18;
+}
+
+.bg-button-whatsapp{
+    background-color: #25D366;
+}
