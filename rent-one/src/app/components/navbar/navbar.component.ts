@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class NavbarComponent {
 
+  numero = '+393342779587';
+  chiamaNumero(){
+    window.location.href = `tel:${this.numero}`
+  }
 }

@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Kenyan Coffee';
+    src: url('KenyanCoffee-Regular.woff2') format('woff2'),
+        url('KenyanCoffee-Regular.woff') format('woff'),
+        url('KenyanCoffee-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,7 +1,65 @@
+@font-face {
+    font-family: 'lemonMilk';
+    src: url('/RentOne/rent-one/src/assets/fonts/lemon_milk/LEMONMILK-BoldItalic.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gavolie';
+    src: url('/RentOne/rent-one/src/assets/fonts/gavoline/GavolineDemo.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'kenyan';
+    src: url('/RentOne/rent-one/src/assets/fonts/kenyan_converted/KenyanCoffee-Regular.woff') format('woff'),
+         url('assets/fonts/kenyan_converted/KenyanCoffee-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bebas';
+    src: url('/RentOne/rent-one/src/assets/fonts/bebas_converted/Bebas-Regular.woff2') format('woff2'),
+         url('assets/fonts/bebas_converted/Bebas-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font-custom-lemonMilk{
+    font-family: 'lemonMilk';
+    font-size: 100%;
+}
+
+.font-custom-gavoline{
+    font-family: 'gavoline';
+    font-size: 100%;
+}
+
+.font-custom-kenyan{
+    font-family: 'kenyan', sans-serif;
+    font-size: 100%;
+}
+
+.font-custom-bebas{
+    font-family: 'bebas', sans-serif;
+    font-size: 100%;
+}
+
 .bg-custom{
     background-color: #1a1a18;
 }
 
 .bg-button-whatsapp{
     background-color: #25D366;
+}
+
+.bg-custom-card{
+    background-color: #E3E3E3;
+}
+
+.lett-spacing {
+  letter-spacing: 0.06em; /* o il valore che preferisci */
 }
