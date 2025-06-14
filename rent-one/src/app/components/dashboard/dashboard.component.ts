@@ -54,7 +54,7 @@ export class DashboardComponent {
       cambio:"Automatica",
       tipoCarburante:"Benzina",
       prezzo:"50€",
-      image:"../../../assets/images/panda-bianca-1.0.png"
+      image:"../../../assets/images/smart-forfour.png"
     },
     {
       name:"Fiat Talento 9 posti",
@@ -89,6 +89,27 @@ export class DashboardComponent {
       cambio:"Automatica",
       tipoCarburante:"Elettrica",
       prezzo:"50€",
+      image:"../../../assets/images/renault-twingo.png"
+    },
+    {
+      name:"Panda 1.2",
+      cambio:"Manuale",
+      tipoCarburante:"Benzina",
+      prezzo:"40€",
+      image:"../../../assets/images/renault-twingo.png"
+    },
+    {
+      name:"Smart forTwo Brabus 0.9",
+      cambio:"Automatica",
+      tipoCarburante:"Benzina",
+      prezzo:"60€",
+      image:"../../../assets/images/renault-twingo.png"
+    },
+    {
+      name:"Smart ForFour",
+      cambio:"Automatica",
+      tipoCarburante:"Benzina",
+      prezzo:"60€",
       image:"../../../assets/images/renault-twingo.png"
     },
     {
