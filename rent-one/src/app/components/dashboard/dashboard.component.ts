@@ -96,21 +96,21 @@ export class DashboardComponent {
       cambio:"Manuale",
       tipoCarburante:"Benzina",
       prezzo:"40€",
-      image:"../../../assets/images/renault-twingo.png"
+      image:"../../../assets/images/panda-grigia.png"
     },
     {
       name:"Smart forTwo Brabus 0.9",
       cambio:"Automatica",
       tipoCarburante:"Benzina",
       prezzo:"60€",
-      image:"../../../assets/images/renault-twingo.png"
+      image:"../../../assets/images/smart-fortwo-brabus.png"
     },
     {
       name:"Smart ForFour",
       cambio:"Automatica",
       tipoCarburante:"Benzina",
       prezzo:"60€",
-      image:"../../../assets/images/renault-twingo.png"
+      image:"../../../assets/images/smart-forfour-nera-bianca.png"
     },
     {
       name:"Piaggio Medley 125",
