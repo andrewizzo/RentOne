@@ -53,7 +53,7 @@ export class DashboardComponent {
       name:"Smart ForFour",
       cambio:"Automatica",
       tipoCarburante:"Benzina",
-      prezzo:"50€",
+      prezzo:"60€",
       image:"../../../assets/images/smart-forfour.png"
     },
     {
