@@ -97,24 +97,30 @@ export class DashboardComponent {
       prezzo:"35€",
       image:"../../../assets/images/piaggio-medley-125.png"
     },
+    {
+      name:"Pegeout Tweet gtfl 125",
+      tipoCarburante:"Benzina",
+      prezzo:"30€",
+      image:"../../../assets/images/pegeuot-125.png"
+    },
   ]
 
   apriWhatsAppVeciolo(veicolo:any){
-    const numero = "+393342779587"
+    const numero = "+393338201637"
     const messaggio = `Ciao, vorrei prenotare il veicolo: ${veicolo.name},${veicolo.cambio},${veicolo.tipoCarburante}, prezzo: ${veicolo.prezzo}`;
     const url = `https://wa.me/${numero}?text=${encodeURIComponent(messaggio)}`;
     window.open(url,'_blank');
   }
 
   apriWhatsApp(){
-    const numero = "+393342779587";
+    const numero = "+393338201637";
     const messaggio = "Ciao vorrei prenotare un veicolo!"
     const url = `https://wa.me/${numero}?text=${encodeURIComponent(messaggio)}`;
     window.open(url,'_blank');
   }
 
   apriWhatsAppPrenotaNavetta(){
-    const numero = "+393342779587";
+    const numero = "+393338201637";
     const messaggio = "Ciao vorrei prenotare una navetta!";
     const url = `https://wa.me/${numero}?text=${encodeURIComponent(messaggio)}`;
     window.open(url,'_blank');
