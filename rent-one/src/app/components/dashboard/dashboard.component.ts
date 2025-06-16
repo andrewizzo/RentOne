@@ -113,6 +113,27 @@ export class DashboardComponent {
       image:"../../../assets/images/smart-forfour-nera-bianca.png"
     },
     {
+      name:"Panda 1.3",
+      cambio:"Manuale",
+      tipoCarburante:"Diesel",
+      prezzo:"40€",
+      image:"../../../assets/images/fiat-panda-bianca.png"
+    },
+    {
+      name:"Panda",
+      cambio:"Manuale",
+      tipoCarburante:"Hybrid",
+      prezzo:"40€",
+      image:"../../../assets/images/fiat-panda-grigia.png"
+    },
+    {
+      name:"Mercedes Gla",
+      cambio:"Automatica",
+      tipoCarburante:"Diesel",
+      prezzo:"150€",
+      image:"../../../assets/images/mercedes-gla.png"
+    },
+    {
       name:"Piaggio Medley 125",
       tipoCarburante:"Benzina",
       prezzo:"35€",
